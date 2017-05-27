@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinball 3D", "Pinball 3D.csproj", "{C99320C1-6AD0-726A-6687-3094C561F429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinball 3D.Editor", "Pinball 3D.Editor.csproj", "{57B1ECE2-AF05-D89A-8B46-C7162EDE5224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C99320C1-6AD0-726A-6687-3094C561F429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99320C1-6AD0-726A-6687-3094C561F429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99320C1-6AD0-726A-6687-3094C561F429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99320C1-6AD0-726A-6687-3094C561F429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B1ECE2-AF05-D89A-8B46-C7162EDE5224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B1ECE2-AF05-D89A-8B46-C7162EDE5224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B1ECE2-AF05-D89A-8B46-C7162EDE5224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B1ECE2-AF05-D89A-8B46-C7162EDE5224}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
